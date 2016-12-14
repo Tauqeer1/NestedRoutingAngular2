@@ -1,0 +1,1 @@
+export {AboutItemComponent} from './about.item.component';
